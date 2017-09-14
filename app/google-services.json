@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "399969018834",
+    "firebase_url": "https://arkay-sell.firebaseio.com",
+    "project_id": "arkay-sell",
+    "storage_bucket": "arkay-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399969018834:android:836312484f349a79",
+        "android_client_info": {
+          "package_name": "com.sell.arkaysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399969018834-pvv3gndkvi90gisaleimbuamk6nv7vjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sell.arkaysell",
+            "certificate_hash": "a5fc7f8b26e82ae869f8cefdbb3e05b772487314"
+          }
+        },
+        {
+          "client_id": "399969018834-29fajr4l667252bmm8mqd9g18nniooqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sell.arkaysell",
+            "certificate_hash": "ea5427e5cd2db97b8c2e9e95aa117f98f55fbc8d"
+          }
+        },
+        {
+          "client_id": "399969018834-59icglaqnm7aq88lej3h9neaqfbkek09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sell.arkaysell",
+            "certificate_hash": "f0aae1823c95ebb2e494c9a11d53f9e2b2b37113"
+          }
+        },
+        {
+          "client_id": "399969018834-7s4c615fk8kis9n6t8pnul327tbfsef1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkQnSr9G1BvsSUy8oKwe0TJ6CQDd7we0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399969018834-ckvl1tqg2ba4tpj0gtifgupa761k8b0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sell.arkaysell"
+              }
+            },
+            {
+              "client_id": "399969018834-7s4c615fk8kis9n6t8pnul327tbfsef1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
